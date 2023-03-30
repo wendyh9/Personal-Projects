@@ -1,5 +1,5 @@
 ## Purpose and Learned Concepts
-This project allowed me to test my understanding of computer organizations through the use of assembly. I was able to develop a clear sense of memory management and how values are assigned to certain registers by using MARS MIPS.
+This project allowed me to test my understanding of computer organization through the use of assembly. I was able to develop a clear sense of memory management and how values are assigned to certain registers by using MARS MIPS.
 
 ## Procedures of the Program
 <ol>
