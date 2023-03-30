@@ -1,3 +1,5 @@
+# author: Wendy Haw
+
 .data 
 
 orig: .space 100	# In terms of bytes (25 elements * 4 bytes each)
