@@ -1,3 +1,5 @@
+// author: Wendy Haw
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
